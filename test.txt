@@ -1,0 +1,1 @@
+This line is writing with the help of f.write in try block
