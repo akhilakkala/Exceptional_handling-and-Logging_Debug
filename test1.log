@@ -1,0 +1,4 @@
+2024-02-13 12:04:30,586 This is info logging where level is debug
+2024-02-13 12:06:22,244 This is my error where level is debug
+2024-02-13 12:06:25,350 This is my error where level is debug
+2024-02-13 12:08:23,463 This is critical where level debug

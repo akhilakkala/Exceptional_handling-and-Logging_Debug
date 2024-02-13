@@ -1,0 +1,13 @@
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+INFO:root:This is written in the log file using info
+CRITICAL:root:this is critical message stay alert!
+INFO:root:This is all about info
+WARNING:root:This is all about warnings
+ERROR:root:this is an Error
+INFO:root:This is info logging where level is debug
+INFO:root:This is info logging where level is debug
+INFO:root:This is info logging where level is debug
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 70f2e748-62a9-4ec9-b62b-918f454627db
+INFO:root:This is info logging where level is debug
